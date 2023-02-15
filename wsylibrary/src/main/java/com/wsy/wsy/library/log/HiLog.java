@@ -101,7 +101,7 @@ public class HiLog {
         }
     }
 
-
+//object解析为String
     private static String parseBody(@NonNull Object[] contents, @NonNull HiLogConfig config) {
         if (config.injectJsonParser() != null) {
             //只有一个数据且为String的情况下不再进行序列化

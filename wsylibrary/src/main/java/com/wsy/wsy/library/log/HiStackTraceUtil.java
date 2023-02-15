@@ -36,7 +36,7 @@ public class HiStackTraceUtil {
     }
 
     /**
-     * Crop the stack trace with a max depth.
+     * Crop the stack trace with a max depth.裁剪堆栈信息
      *
      * @param callStack the original stack trace
      * @param maxDepth  the max depth of real stack trace that will be cropped,
