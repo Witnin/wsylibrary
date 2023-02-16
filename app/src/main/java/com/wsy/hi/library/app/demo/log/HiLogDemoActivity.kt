@@ -1,4 +1,4 @@
-package com.wsy.hi.library.app.demo
+package com.wsy.hi.library.app.demo.log
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

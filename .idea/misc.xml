@@ -4,8 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/workspace/Android/wsylibrary/app/src/main/res/layout/activity_hi_log_demo.xml" value="0.2203125" />
+        <entry key="..\:/workspace/Android/wsylibrary/app/src/main/res/layout/activity_hi_tab_bottom_demo.xml" value="0.30052083333333335" />
         <entry key="..\:/workspace/Android/wsylibrary/app/src/main/res/layout/activity_main.xml" value="0.303125" />
+        <entry key="..\:/workspace/Android/wsylibrary/app/src/main/res/layout/activity_test.xml" value="0.21510416666666668" />
+        <entry key="..\:/workspace/Android/wsylibrary/app/src/main/res/layout/content_hi_tab_top_demo.xml" value="0.36614583333333334" />
         <entry key="..\:/workspace/Android/wsylibrary/wsylibrary/src/main/res/layout/hilog_item.xml" value="0.2586050724637681" />
+        <entry key="..\:/workspace/Android/wsylibrary/wsyui/src/main/res/drawable/shape_point_select.xml" value="0.1465" />
+        <entry key="..\:/workspace/Android/wsylibrary/wsyui/src/main/res/layout/hi_bottom_layout_bg.xml" value="0.27395833333333336" />
+        <entry key="..\:/workspace/Android/wsylibrary/wsyui/src/main/res/layout/hi_refresh_overview.xml" value="0.17617753623188406" />
+        <entry key="..\:/workspace/Android/wsylibrary/wsyui/src/main/res/layout/hi_tab_bottom.xml" value="0.17617753623188406" />
       </map>
     </option>
   </component>

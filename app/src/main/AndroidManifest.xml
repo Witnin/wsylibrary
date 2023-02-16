@@ -14,8 +14,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Wsylibary"
         tools:targetApi="31">
+<!--        <activity-->
+<!--            android:name=".demo.tab.HiTabTopDemoActivity"-->
+<!--            android:exported="false" />-->
         <activity
-            android:name=".demo.HiLogDemoActivity"
+            android:name=".demo.tab.HiTabBottomDemoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".demo.log.HiLogDemoActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
